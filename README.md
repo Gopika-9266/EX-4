@@ -1,6 +1,6 @@
 # EX-4 IMPLEMENTATION OF ADDRESS RESOLUTION PROTOCOL (ARP)
 
-DATE:30-03-2023
+DATE :30-03-2023
 
 # AIM:
 To write a python program for simulating ARP protocols using TCP.
@@ -16,6 +16,7 @@ Client:
 5.Server returns the MAC address to client.
 
 SERVER:
+
 1.Start the program
 2. Accept the socket which is created by the client.
 3. Server maintains the table in which IP and corresponding MAC addresses are
