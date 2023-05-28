@@ -55,6 +55,12 @@ while True:
 
 # OUTPUT:
 
+CLIENT:
+![addressresolution1](https://github.com/Gopika-9266/EX-4/assets/122762773/2234e679-ad97-48e2-a619-edc6bffc1e20)
+
+SERVER:
+![addressresolution](https://github.com/Gopika-9266/EX-4/assets/122762773/84d531e0-8ec5-490e-b982-026932a49f32)
+
 
 # RESULT:
 Thus, the python program for simulating ARP protocols using TCP was successfully
